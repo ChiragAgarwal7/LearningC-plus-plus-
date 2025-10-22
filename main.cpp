@@ -154,7 +154,7 @@ cout<<"done with all the cases"<<endl;
    break statements se vo loop break kardeta hain and aage further nhi jaata,
     whereas in continue statements vo uss value ko skip kardeta hain and loop chalta rehta hain.
 
-   Break and Continue statements can be used for while, for and do-while
+   Break and Continue statements can be used for while, for and do-while loops
 
     */
   return 0;
