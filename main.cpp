@@ -100,9 +100,62 @@ cout<<"done with all the cases"<<endl;
  3. do-while loop
 
     ************for loop***********
-  
-
-
+    
+  /*  for(intialization; condition; updation condition)
+       {
+          loop body( C++ Code)
+       }
  */
-return 0;
+  // example of loop
+
+  /*   for (int i = 0; i<4; i++)
+  {
+   cout<<i<<endl;
+   }
+
+   // example of infinite loop
+
+/*     for (int i = 1; 34 <= 40; i++)
+  {
+    cout<<i<<endl;
+   }
+*/
+
+  // Example of While loop
+
+  /*   Printing 1 to 40 using while loop
+   int i=10;
+    while (i<=40)
+    {
+      cout<<i<<endl;
+      i++;
+    }
+  */
+
+  // example of infinite while loop
+
+  /*   int i=1;
+     while (true)
+     {
+     cout<<i<<endl;
+      i++;
+     }
+  */
+
+  // Do-while loop  ( ye ek baar to run hota hi hain.)
+  // int i=1;
+  // do
+  // {
+  //     cout<<i<<endl;
+  // } while (true);
+
+  // ************break and continue statements********
+  /*
+   break statements se vo loop break kardeta hain and aage further nhi jaata,
+    whereas in continue statements vo uss value ko skip kardeta hain and loop chalta rehta hain.
+
+   Break and Continue statements can be used for while, for and do-while
+
+    */
+  return 0;
 }
